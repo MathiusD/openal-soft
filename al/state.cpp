@@ -34,6 +34,8 @@
 #include "AL/alc.h"
 #include "AL/alext.h"
 
+#include "SOFT/api.h"
+
 #include "al/debug.h"
 #include "albit.h"
 #include "alc/alu.h"

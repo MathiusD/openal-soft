@@ -62,6 +62,8 @@
 #include "AL/alext.h"
 #include "AL/efx.h"
 
+#include "SOFT/api.h"
+
 #include "al/auxeffectslot.h"
 #include "al/buffer.h"
 #include "al/debug.h"
